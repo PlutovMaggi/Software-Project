@@ -21,6 +21,7 @@ Given a set of n points X = x1, x2, . . . , xN ∈ Rd the algorithm is:
 The full description and calculations are explained in the following  PDF file:
 [project.pdf](https://github.com/PlutovMaggi/Software-Project/files/14001252/project.pdf)
 
+Final grade - 99 
 
 Including the following files:
 1. spkmeans.py: Python interface. 
