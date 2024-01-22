@@ -22,7 +22,7 @@ The full description and calculations are explained in the following  PDF file:
 [project.pdf](https://github.com/PlutovMaggi/Software-Project/files/14001252/project.pdf)
 
 
-Implemented the following files:
+Including the following files:
 1. spkmeans.py: Python interface. 
 2. spkmeans.h: C header file.
 3. spkmeans.c: C interface.
