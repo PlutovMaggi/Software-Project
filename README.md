@@ -2,6 +2,9 @@
 
 In this project we implemented a version of the Normalized Spectral Clustering algorithm based on [1, 2].
 
+Final grade - 99 
+
+
 Algorithm 1 - The Normalized Spectral Clustering Algorithm
 
 Given a set of n points X = x1, x2, . . . , xN ∈ Rd the algorithm is:
@@ -18,10 +21,10 @@ Given a set of n points X = x1, x2, . . . , xN ∈ Rd the algorithm is:
 
 6: Treating each row of T as a point in Rk, cluster them into k clusters via the K-means algorithm
 
+
 The full description and calculations are explained in the following  PDF file:
 [project.pdf](https://github.com/PlutovMaggi/Software-Project/files/14001252/project.pdf)
 
-Final grade - 99 
 
 Including the following files:
 1. spkmeans.py: Python interface. 
@@ -30,6 +33,7 @@ Including the following files:
 4. spkmeansmodule.c: Python C API wrapper.
 5. setup.py: The setup file.
 6. comp.sh: compilation script.
+
 
 
 References:
